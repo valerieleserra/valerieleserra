@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Val</h1>
-<h3 align="center">A passionate fullstack developer from Florida</h3>
+<h3 align="center">Currently in school to be a fullstack developer at Boca Code!</h3>
 
 - 📫 How to reach me **valerieleserra@gmail.com**
 
